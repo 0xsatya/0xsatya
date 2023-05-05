@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I am a passionate software developer with 3+ years of experience as a Blockchain Developer and 8+ years of experience in software development. I am an expert in the development/deployment of various Smart Contracts, Tokens such as ERC20, ERC721 (NFTs), ERC1155, etc with required tokenomics, integration with Exchanges such as Uniswap, Sushiswap etc and experience of many real blockchain projects.
+
+- 🔭 I’m currently working on a awesome Defi Liquid Staking protocol with millions of TVL.
+
 <!--
 **0xsatya/0xsatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
