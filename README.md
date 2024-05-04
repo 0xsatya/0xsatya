@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am a passionate software developer with 3+ years of experience as a Blockchain Developer and 8+ years of experience in software development. 
+- I am a passionate software developer with 5+ years of experience as a Blockchain Developer and 10+ years of experience in software development. 
 - I am an expert in the development/deployment of various Smart Contracts, Tokens such as ERC20, ERC721 (NFTs), ERC1155.
 - I have contributed to a number of NFT Marketplace, Defi, Crypto and ZK based projects.
 - I have worked on Ethereum, BSC, Polygon, Arbitrum Chains.
@@ -16,15 +16,16 @@
 |-----:|-----------|
 |     1| Solidity  |
 |     2| Python    |
+|     3| Rust      |
 |     3| Javascript|
 
 <summary>My Toolkit</summary>
 
-| Rank | Languages |
+| Rank | Toolkit   |
 |-----:|-----------|
-|     1| Foundry  |
-|     2| Hardhat  |
-|     3| Slither  |
+|     1| Foundry   |
+|     2| Hardhat   |
+|     3| Slither   |
 
 - 📫 How to reach me: satyas2099@gmail.com
 
